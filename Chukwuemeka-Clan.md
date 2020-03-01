@@ -10,5 +10,4 @@ ___
 Name <br/>
 Track
 
-Paschaline Agughala  <br/>
-Front End Mobile : Android 
+
